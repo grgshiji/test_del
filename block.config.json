@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "YLM46RFRk_gXi31aFCET1",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/test_del.git",
+    "ssh": "git@github.com:grgshiji/test_del.git",
     "branch": "block_test_del"
   },
   "parentBlockIDs": [],
