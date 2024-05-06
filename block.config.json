@@ -1,0 +1,16 @@
+{
+  "name": "test_del",
+  "type": "package",
+  "blockId": "YLM46RFRk_gXi31aFCET1",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_test_del"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
