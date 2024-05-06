@@ -1,0 +1,20 @@
+{
+  "blockId": "he2sShlAzTV8vJ9klE1jj",
+  "name": "test_del_fn",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/test_del.git",
+    "ssh": "git@github.com:grgshiji/test_del.git",
+    "branch": "block_test_del_fn"
+  },
+  "parentBlockIDs": [
+    "YLM46RFRk_gXi31aFCET1"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
