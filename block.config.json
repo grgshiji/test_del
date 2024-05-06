@@ -13,9 +13,6 @@
     "1.0.0"
   ],
   "repoType": "mono",
-  "dependencies": {
-    "test_del_fn": {
-      "directory": "test_del_fn"
-    }
-  }
+  "dependencies": {},
+  "version": "0.0.1"
 }
